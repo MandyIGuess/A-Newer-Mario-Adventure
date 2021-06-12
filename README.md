@@ -6,11 +6,12 @@ This is a mod made by me, Mandy. It features 6 worlds of custom levels.
 
 ## World Themes
 
-W1 - Goldwood Isle
-W2 - Underground Sewer
-W3 - Chocolate Mountain
-W4 - Deserted Cliffs/Sandy Shores
-W5 - Sky Mountains
+- W1 - Goldwood Isle
+- W2 - Underground Sewer
+- W3 - Chocolate Mountain
+- W4 - Deserted Cliffs/Sandy Shores
+- W5 - Sky Mountains
+
 ## Features
 - Atleast 3 Unique World Maps
 - Undetermined Amount Of Custom Levels (As of now)
