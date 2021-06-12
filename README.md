@@ -1,12 +1,19 @@
-# Return-To-Goldwood-Forest
+# A Newer Mario Adventure
 A Newer SMBW mod I'm working on.
 
 # Mod Details
-This is a mod made by me, Mandy. It features 2 whole worlds of custom levels based around Goldwood Forest.
+This is a mod made by me, Mandy. It features 6 worlds of custom levels.
+
+## World Themes
+
+W1 - Goldwood Isle
+W2 - Underground Sewer
+W3 - Chocolate Mountain
+W4 - Deserted Cliffs/Sandy Shores
+W5 - Sky Mountains
 ## Features
-- 3 Unique World Maps
-- 19 Custom Levels (As of now)
-- 4 Bonus Worlds
+- Atleast 3 Unique World Maps
+- Undetermined Amount Of Custom Levels (As of now)
 - 4 Switch Palaces
 
 ### This mod is being developed using several different programs listed below:
